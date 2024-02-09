@@ -1,0 +1,9 @@
+
+.grif{
+    display: grid;
+}
+.grid div{
+background-color: blueviolet;
+height: 20px;
+width: 10px;
+}
